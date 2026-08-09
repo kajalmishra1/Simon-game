@@ -25,7 +25,7 @@ https://kajalmishra1.github.io/Simon-game/
 
 ```
 simon-game/
-├── simon.html
+├── index.html
 ├── Simon.css
 ├── Simon.js
 └── README.md
@@ -46,7 +46,7 @@ To run this project locally:
    ```
    git clone https://github.com/yourusername/simon-game.git
    ```
-2. Open `simon.html` in your browser
+2. Open `index.html` in your browser
 3. Press any key and start playing!
 
 ## 🙋‍♂️ Author
