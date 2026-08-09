@@ -13,7 +13,6 @@ A browser-based Simon Says memory game built with vanilla **HTML, CSS, and JavaS
 
 ## 🚀 Demo
 
-https://kajalmishra1.github.io/Simon-game/
 
 ## 🛠️ Built With
 
